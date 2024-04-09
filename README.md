@@ -7,7 +7,7 @@
 - 📫 Reach me at jothiprabhaanbalagan@gmail.com
 
 💻 Tech Stack
-- 🌐 Frontend : HTML, CSS, JavaScript,Bootstrap,Js DOM
+- 🌐 Frontend : HTML, CSS, JavaScript,Bootstrap,Js DOM and Angular
 - 🌐 Backend  : Java
 - 📁 Database : MySql
 - 🔧 Tools    : VS Code,Eclipse IDE
